@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "483434640483",
+    "project_id": "navi-gaurd",
+    "storage_bucket": "navi-gaurd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:483434640483:android:624b14c6f64793848a7456",
+        "android_client_info": {
+          "package_name": "com.example.navi_gaurd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdgBi4SRAGHRcvXYllE5Wo8z1t4gbHgD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
